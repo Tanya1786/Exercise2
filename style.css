@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+
+}
+.header {
+    height: 50px;
+    background: red;
+    top: 0px;
+   position: sticky;
+
+  }
+  
+  .mcdonalds
+  {
+    
+    top: 20px;
+    right: 80px;
+    position:fixed;
+  }
+
+  .header2 {
+    height: 40px;
+    background: grey;
+    position: sticky;
+    text-align: center;
+    top: 50px;
+  }
+  .header3 {
+    height: 40px;
+    background: grey;
+    text-align: center;
+  }
+  .p {
+   
+   background-color:  lightgrey;
+   height: 1500px;
+  }
